@@ -1,0 +1,19 @@
+img{
+	border-radius: 50%;
+	width: 150px; 
+	height: 150px;
+}
+
+.partedecima{
+	  position: relative;
+  	top: 20px; 
+	  left: 50px;
+}
+div{
+	margin: 25px;
+	padding-top: 20px;
+	justify-items: auto;
+}
+.partedecima{
+	display: flex; 
+}
